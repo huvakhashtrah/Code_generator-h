@@ -1,2 +1,2 @@
 print("kos.khol.shodi🤣🖐")
-pront("kosssss")
+print("kosssss")
